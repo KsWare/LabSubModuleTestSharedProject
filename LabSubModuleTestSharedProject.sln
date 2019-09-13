@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "LabSubModuleTestSharedProject", "LabSubModuleTestSharedProject\LabSubModuleTestSharedProject.shproj", "{25D997F1-9B42-4EB8-A55C-CE31266BB17D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		LabSubModuleTestSharedProject\LabSubModuleTestSharedProject.projitems*{25d997f1-9b42-4eb8-a55c-ce31266bb17d}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC6FEBC-EC64-418D-BF1C-B61EBFD4072E}
+	EndGlobalSection
+EndGlobal
