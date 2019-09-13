@@ -9,5 +9,6 @@
     <Import_RootNamespace>LabSubModuleTestSharedProject</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)SharedClass.cs" />
   </ItemGroup>
 </Project>
